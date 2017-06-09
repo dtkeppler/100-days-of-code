@@ -10,6 +10,7 @@
 **Link to work:** [Portfolio](https://codepen.io/dtkeppler/pen/EXjEQj?editors=1100)
 
 
+
 ### Day 2: June 8, 2017 
 #### Time: 2 hours
 
