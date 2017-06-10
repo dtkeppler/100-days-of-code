@@ -19,3 +19,19 @@
 **Takeaways:** Linking images to Codepen was a bit tricky; you need to use http://dl.dropbox.com/... rather than http://www.dropbox.com/...
 
 **Link to work:** [Portfolio](https://codepen.io/dtkeppler/pen/EXjEQj?editors=1100)
+
+
+
+### Day 3: June 9, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Worked on FCC Basic JavaScript course; completed up to "Access Array Data with Indexes"
+
+**Takeaways:**  Covered concepts I'm familiar with.  (Re)-learned how to access last object in array (or last letter in string)
+
+**Link to work:** n/a
+
+
+### Day 4: June 10, 2017 
+#### Time: 1 hour
+
