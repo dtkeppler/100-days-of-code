@@ -27,7 +27,7 @@
 
 **Today's Progress**: Worked on FCC Basic JavaScript course; completed up to "Access Array Data with Indexes"
 
-**Takeaways:**  Covered concepts I'm familiar with.  (Re)-learned how to access last object in array (or last letter in string)
+**Takeaways:**  Covered basic JS concepts I'm familiar with.  (Re)-learned how to access last object in array (or last letter in string)
 
 **Link to work:** n/a
 
