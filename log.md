@@ -35,3 +35,8 @@
 ### Day 4: June 10, 2017 
 #### Time: 1 hour
 
+**Today's Progress**: Continued FCC Basic JavaScript course; completed up to "Counting Cards".  Challenges: "Golf Code" and "Counting Cards".
+
+**Takeaways:**  Reinforced knowledge of functions and program-flow logic.  Got more practice with switch statements, and was pleased to get the "Counting Cards" app on pretty much the first try.
+
+**Link to work:** n/a
