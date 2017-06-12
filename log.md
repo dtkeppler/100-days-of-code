@@ -33,7 +33,7 @@
 
 
 ### Day 4: June 10, 2017 
-#### Time: 1 hour
+#### Time: 1.5 hours
 
 **Today's Progress**: Continued FCC Basic JavaScript course; completed up to "Counting Cards".  Challenges: "Golf Code" and "Counting Cards".
 
