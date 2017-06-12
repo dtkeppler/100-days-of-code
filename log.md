@@ -40,3 +40,13 @@
 **Takeaways:**  Reinforced knowledge of functions and program-flow logic.  Got more practice with switch statements, and was pleased to get the "Counting Cards" app on pretty much the first try.
 
 **Link to work:** n/a
+
+
+### Day 5: June 11, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: Continued FCC Basic JavaScript course; currently on "Profile Lookup"
+
+**Takeaways:**  Worked on data structures and loops.  Starting to get tricky; gonna need to spend more time on Profile Lookup.  Should review "Using Objects for Lookups" and "Nesting For Loops" again.
+
+**Link to work:** n/a
