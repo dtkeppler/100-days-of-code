@@ -50,3 +50,13 @@
 **Takeaways:**  Worked on data structures and loops.  Starting to get tricky; gonna need to spend more time on Profile Lookup.  Should review "Using Objects for Lookups" and "Nesting For Loops" again.
 
 **Link to work:** n/a
+
+
+### Day 6: June 12, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: Continued FCC Basic JavaScript course; still on "Profile Lookup", but making progress.
+
+**Takeaways:**  Man, this one is tricky.  Finally realized that in order to run through an entire for-loop and pick out the target object, variables are needed for the object that meets the condition, as well as for the object's index. 
+
+**Link to work:** n/a
