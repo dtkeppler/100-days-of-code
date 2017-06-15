@@ -62,11 +62,21 @@
 **Link to work:** n/a
 
 
-### Day 6: June 12, 2017 
+### Day 7: June 13, 2017 
 #### Time: 1.5 hours
 
 **Today's Progress**: Completed FCC challenge "Profile Lookup" and the rest of intro to JS.  Moved on to OOP and covered constructor functions.
 
 **Takeaways:**  It was VERY satisfying to finally get the "Profile Lookup" working. Learned about Regular Expressions (searches within strings), which will be useful.  It was helpful to have a refresher on Constructor functions.
+
+**Link to work:** n/a
+
+
+### Day 8: June 14, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed FCC Object-Oriented Programming section, and two "Basic Algorithm Scripting" challenges.
+
+**Takeaways:**  Reinforced knowledge of array methods. Found a use for RegEx (regular expressions) in removing non-apha-num characters from a string.
 
 **Link to work:** n/a
