@@ -27,7 +27,7 @@
 
 **Today's Progress**: Worked on FCC Basic JavaScript course; completed up to "Access Array Data with Indexes"
 
-**Takeaways:**  Covered basic JS concepts I'm familiar with.  (Re)-learned how to access last object in array (or last letter in string)
+**Takeaways:**  Covered basic JS concepts I'm familiar with.  (Re-)learned how to access last object in array (or last letter in string)
 
 **Link to work:** n/a
 
@@ -47,7 +47,7 @@
 
 **Today's Progress**: Continued FCC Basic JavaScript course; currently on "Profile Lookup"
 
-**Takeaways:**  Worked on data structures and loops.  Starting to get tricky; gonna need to spend more time on Profile Lookup.  Should review "Using Objects for Lookups" and "Nesting For Loops" again.
+**Takeaways:**  Worked on data structures and loops.  Starting to get tricky; gonna need to spend more time on Profile Lookup.  Should review "Using Objects for Lookups" and "Nesting For Loops" exercises again.
 
 **Link to work:** n/a
 
@@ -77,6 +77,16 @@
 
 **Today's Progress**: Completed FCC Object-Oriented Programming section, and two "Basic Algorithm Scripting" challenges.
 
-**Takeaways:**  Reinforced knowledge of array methods. Found a use for RegEx (regular expressions) in removing non-apha-num characters from a string.
+**Takeaways:**  Reinforced knowledge of array methods. Found a use for RegEx's in removing non-alphanumeric characters from a string.
+
+**Link to work:** n/a
+
+
+### Day 9: June 15, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Continued "Basic Algorithm Scripting" challenges.
+
+**Takeaways:**  I'm glad to see that I've come a long way as a result of the Tech Talent South JS class.  I would not have been able to complete these before, but now I am able to work my way through them, with some help from Stack Overflow.
 
 **Link to work:** n/a
