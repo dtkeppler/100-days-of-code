@@ -90,3 +90,13 @@
 **Takeaways:**  I'm glad to see that I've come a long way as a result of the Tech Talent South JS class.  I would not have been able to complete these before, but now I am able to work my way through them, with some help from Stack Overflow.
 
 **Link to work:** n/a
+
+
+### Day 10: June 16, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Continued "Basic Algorithm Scripting" challenges.
+
+**Takeaways:**  I'm still feeling confident about working through these challenges, and importantly, I'm getting better at not panicking when I hit a stumbling block.
+
+**Link to work:** n/a
