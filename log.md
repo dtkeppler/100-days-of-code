@@ -102,7 +102,7 @@
 **Link to work:** n/a
 
 
-### Day 10: June 17, 2017 
+### Day 11: June 17, 2017 
 #### Time: 1.5 hour
 
 **Today's Progress**: Continued "Basic Algorithm Scripting" challenges. (Chunky Monkey, Slasher Flick, & Mutations)
