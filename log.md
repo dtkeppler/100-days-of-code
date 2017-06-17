@@ -100,3 +100,13 @@
 **Takeaways:**  I've been trying out writing out the program logic in pseudo-code, which is helping. Also, I'm getting better at not panicking when I hit a stumbling block.
 
 **Link to work:** n/a
+
+
+### Day 10: June 17, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Continued "Basic Algorithm Scripting" challenges. (Chunky Monkey, Slasher Flick, & Mutations)
+
+**Takeaways:**  I want to try to ignore the "helpful links" listed; these won't be available in the real world.  One of the hard things is remembering what methods are out there, what they're used for, and which is needed for a given problem.
+
+**Link to work:** n/a
