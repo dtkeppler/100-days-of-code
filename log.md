@@ -97,6 +97,6 @@
 
 **Today's Progress**: Continued "Basic Algorithm Scripting" challenges.
 
-**Takeaways:**  I'm still feeling confident about working through these challenges, and importantly, I'm getting better at not panicking when I hit a stumbling block.
+**Takeaways:**  I've been trying out writing out the program logic in pseudo-code, which is helping. Also, I'm getting better at not panicking when I hit a stumbling block.
 
 **Link to work:** n/a
