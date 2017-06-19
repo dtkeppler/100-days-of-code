@@ -110,3 +110,13 @@
 **Takeaways:**  I want to try to ignore the "helpful links" listed; these won't be available in the real world.  One of the hard things is remembering what methods are out there, what they're used for, and which is needed for a given problem.
 
 **Link to work:** n/a
+
+
+### Day 12: June 18, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Continued "Basic Algorithm Scripting" challenges. (Falsy Bouncer, Seek & Destroy, Where Do I Belong)
+
+**Takeaways:**  "Seek & Destroy" was challenging.  There's a nice trick to convert arguments into an array.  Also, IndexOf was what allowed me to finally match up outer-array items with the inner-array items.  "Where Do I Belong is also tricky, but I think I'm getting close.
+
+**Link to work:** n/a
