@@ -120,3 +120,13 @@
 **Takeaways:**  "Seek & Destroy" was challenging.  There's a nice trick to convert arguments into an array.  Also, IndexOf was what allowed me to finally match up outer-array items with the inner-array items.  "Where Do I Belong is also tricky, but I think I'm getting close.
 
 **Link to work:** n/a
+
+
+### Day 13: June 19, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Completed "Basic Algorithm Scripting" challenges. (Where Do I Belong, Caesar's Cipher)
+
+**Takeaways:**  These last two were quite challenging.  Proof that if your code to do one thing is getting too complex, you're prob overthinking it.  Also, it helps to first think about what exactly your operator is checking for.  charCode methods are useful for using numeric operators on letters.
+
+**Link to work:** n/a
