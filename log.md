@@ -130,3 +130,13 @@
 **Takeaways:**  These last two were quite challenging.  Proof that if your code to do one thing is getting too complex, you're prob overthinking it.  Also, it helps to first think about what exactly your operator is checking for.  charCode methods are useful for using numeric operators on letters.
 
 **Link to work:** n/a
+
+
+### Day 13: June 20, 2017 
+#### Time: 1.75 hour
+
+**Today's Progress**: Completed "JSON API's and Ajax"; started on "Build a Random Quote Machine" project
+
+**Takeaways:**  JSON, API's, and Ajax concepts were familiar from Tech Talent South, but I know I will need a lot of practice.  The random quote machine JS is already finished; I used a hard-coded array of objects for quotes.  (I considered using Ajax but couldn't find a good site to get data from).
+
+**Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
