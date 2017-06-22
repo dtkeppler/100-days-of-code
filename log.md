@@ -142,8 +142,8 @@
 **Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
 
 
-### Day 13: June 20, 2017 
-#### Time: 1.75 hour
+### Day 14: June 21, 2017 
+#### Time: 2 hours
 
 **Today's Progress**: Almost finished with FCC "Random Quote Machine" app and styling.  Since it's a movie quote generator, I added images from IMDB for some added flair. I also created a function to tweet the current quote.
 
