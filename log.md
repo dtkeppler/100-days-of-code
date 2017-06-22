@@ -140,3 +140,14 @@
 **Takeaways:**  JSON, API's, and Ajax concepts were familiar from Tech Talent South, but I know I will need a lot of practice.  The random quote machine JS is already finished; I used a hard-coded array of objects for quotes.  (I considered using Ajax but couldn't find a good site to get data from).
 
 **Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
+
+
+### Day 13: June 20, 2017 
+#### Time: 1.75 hour
+
+**Today's Progress**: Almost finished with FCC "Random Quote Machine" app and styling.  Since it's a movie quote generator, I added images from IMDB for some added flair. I also created a function to tweet the current quote.
+
+**Takeaways:**  The official Twitter docs weren't very clear or helpful for a beginner.  Rather, I used an excellent and simple tutorial at https://debugmode.net/2012/06/27/how-to-post-a-tweet-using-javascript/.  I know using official docs is the ideal starting point, but in a pinch, go with what works.
+
+**Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
+
