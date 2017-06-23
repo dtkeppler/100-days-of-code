@@ -152,12 +152,12 @@
 **Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
 
 
-### Day 14: June 21, 2017 
-#### Time: 2 hours
+### Day 15: June 22, 2017 
+#### Time: 2.5 hours
 
 **Today's Progress**: I decided to make the quote generator more challenging by making it RESTful.  I created a second app with quotes from "http://quotesondesign.com/", but decided this was also pretty easy.  So I created a third app using the "https://forismatic.com/en" API.
 
-**Takeaways:**  Even though the forismatic.com code was quite simple, it took some time to figure out how to construct the URL
+**Takeaways:**  Even though the forismatic.com code was quite simple, it took some time to figure out how to construct the URL query string. (Basically [URL] + ? + [request parameters])
 
-**Link to work:** [Quote Machine](https://codepen.io/dtkeppler/pen/XgRzwd)
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo), [Forismatic](https://codepen.io/dtkeppler/pen/NgvWez)
 
