@@ -161,3 +161,38 @@
 
 **Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo), [Forismatic](https://codepen.io/dtkeppler/pen/NgvWez)
 
+
+### Day 16: June 23, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I continued to clean up my two RESTful quote apps.  Mostly did some styling and tweaked the Tweet code.  
+
+**Takeaways:**  It looks like there's a network-restriction problem with the Forismatic API.  I got around it with a Chrome extension that enables CORS, but when it's turned on, I can't tweet.  I'll need to work on this more down the road.
+
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo), [Forismatic](https://codepen.io/dtkeppler/pen/NgvWez)
+
+
+### Day 17: June 24, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I continued to work on the "Quotes on Design" app.  Spent most of the time trying to figure out how to remove the "<p>" tags from the returned property string.  
+
+**Takeaways:**  I finally realized these aren't actually HTML tags; they are part of the string in the JSON object's properties. Whoops!
+
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo)
+
+
+### Day 18: June 25, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I continued to work on the "Quotes on Design" app, and made two significant fixes:
+1) I got the tweet alert-box to stop propogating multiple times 
+2) I used .replace() on the ASCII code for apostrophes
+
+**Takeaways:**  Again, if a problem is getting too complex, there's likely a simpler solution (ie. the replace method.)  Also, I realized that I had figured it out before, but didn't use the "global" feature so not all were being replaced.
+
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo)
+
+
+
+
