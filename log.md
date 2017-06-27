@@ -194,5 +194,14 @@
 **Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo)
 
 
+### Day 19: June 26, 2017 
+#### Time: 1 hour
 
+**Today's Progress**: Finished up and submitted my "Quotes on Design" app.  My last updates were:
+1) Got tweet to include the quote author's name
+2) I chained multiple .replace() methods to replace other ASCII codes and HTML tags
+
+**Takeaways:**  I'm going to need to go back to the replace method fix, as it feels like a hack.  However, I spent a lot of time and didn't find a fix that addressed my problem in a more effective way.
+
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo)
 
