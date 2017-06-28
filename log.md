@@ -205,3 +205,15 @@
 
 **Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/JJJeMo)
 
+
+### Day 20: June 27, 2017 
+#### Time: 2 hours
+
+**Today's Progress**: Started on the Local Weather app project.  I've enabled the geolocation and tried creating an ajax "get" request, but CORS is again a problem. I'll need to look into a proxy server (this was also recommended by some on the FCC forum).
+
+**Takeaways:**  1) CORS restrictions are a pain! 2) I was reminded that it's necessary to have a function return a value or other useful result of some sort.
+
+**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+
