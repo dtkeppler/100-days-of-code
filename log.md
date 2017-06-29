@@ -213,7 +213,15 @@
 
 **Takeaways:**  1) CORS restrictions are a pain! 2) I was reminded that it's necessary to have a function return a value or other useful result of some sort.
 
-**Link to work:** [Quotes on Design](https://codepen.io/dtkeppler/pen/WOXZOq)
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
 
 
+### Day 21: June 28, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: I worked on getting around CORS. First I read up on proxy servers, but that doesn't appear to be an option.  So I went with JSONP.  Next I began writing a function that will manipulate the DOM with the returned JSON.
+
+**Takeaways:**  1) Even though JSONP was an easy fix, I don't like having my API key out there.  I'll need to look into other options later on.  2) I feel like I'm "daisy-chaining" a lot of callback functions; wondering if there's a more elegant way to do it, or if this is quite normal.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
 
