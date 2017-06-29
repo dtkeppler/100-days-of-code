@@ -225,3 +225,13 @@
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
 
+
+### Day 22: June 29, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I begin adding a switch statement to handle the different results of the Ajax call.  Next I started playing with the CSS so I can test rendering an image based on the response.
+
+**Takeaways:**  I think there must be a more elegant way where I can access ALL the returned object properties, rather than just declaring and assigning a bunch of variables.  Look into refactoring later.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
