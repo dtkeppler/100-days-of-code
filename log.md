@@ -235,3 +235,22 @@
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
 
+
+### Day 23: June 30, 2017
+#### Time: 1 hour
+
+**Today's Progress**: A bit of a cheat day.  I watched FunFunFunction series on YouTube and worked on array methods; particularly the .reduce() method.
+
+**Takeaways:**  "Reduce" is a good all-purpose array method.  I (re-)leanred the basics of how it works, and look forward to learning more use-cases in the next video.
+
+**Link to work:** n/a
+
+
+### Day 22: June 29, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Back to the Weather App.  I wired it to create and prepend an image div based on today's weather, then I worked on styling this background image, which is trickier than I thought.
+
+**Takeaways:**  FIRST THINGS FIRST!  I was making a mess of the CSS positioning, when I realized I should really be letting Bootstrap do the work for me.  So I added Bootstrap and using grids, I'm already making much more progress.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
