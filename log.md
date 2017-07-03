@@ -246,11 +246,24 @@
 **Link to work:** n/a
 
 
-### Day 22: June 29, 2017 
+### Day 24: July 1, 2017 
 #### Time: 1 hour
 
 **Today's Progress**: Back to the Weather App.  I wired it to create and prepend an image div based on today's weather, then I worked on styling this background image, which is trickier than I thought.
 
 **Takeaways:**  FIRST THINGS FIRST!  I was making a mess of the CSS positioning, when I realized I should really be letting Bootstrap do the work for me.  So I added Bootstrap and using grids, I'm already making much more progress.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+### Day 25: July 2, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: I applied the image links to the switch statement, and got the data to overlap the image by using absolute positioning on both the "data" and "image" divs.
+
+**Takeaways:**   
+1) I realized that rather than define the entire <img> element, I can just assign the link to an "image" variable and use it in the jQuery .prepend() method later.
+2) CSS positioning is tricky; I had to remove the "col" grid class from the "image" div, but leave it for the "data" div.
+3) Apparently no easy to make only a part of an image transparent (I was going to put a circle around the data and lighten that area)
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
