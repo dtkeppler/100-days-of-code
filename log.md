@@ -267,3 +267,14 @@
 3) Apparently no easy to make only a part of an image transparent (I was going to put a circle around the data and lighten that area)
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+### Day 26: July 3, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Styled text and added .css() method to make white text for dark images.  Created "convert" button and event-handler to toggle between C/F.
+
+**Takeaways:**   
+The event handler needs to be inside the function that gets and renders all the data.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
