@@ -274,7 +274,16 @@
 
 **Today's Progress**: Styled text and added .css() method to make white text for dark images.  Created "convert" button and event-handler to toggle between C/F.
 
-**Takeaways:**   
-The event handler needs to be inside the function that gets and renders all the data.
+**Takeaways:**  The event handler needs to be inside the function that gets and renders all the data.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+### Day 27: July 4, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Got the F/C converter button working.  Tweaked button CSS and other styling and added a link to Dark Sky.  Almost finished, but I'm going to look into getting city location via geolocation first.
+
+**Takeaways:**  I updated the button HTML by referencing button as "this", which is good because I've been wanting some practice working with objects and "this".
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
