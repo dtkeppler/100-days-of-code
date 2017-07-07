@@ -290,7 +290,7 @@
 
 
 ### Day 28: July 5, 2017 
-#### Time: 1.5 hour
+#### Time: 1 hour
 
 **Today's Progress**: Got bogged down trying to get the user's nearest city using the Google Maps API. 
 
@@ -299,8 +299,8 @@
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
 
 
-### Day 27: July 4, 2017 
-#### Time: 1.5 hour
+### Day 27: July 6, 2017 
+#### Time: 2 hours
 
 **Today's Progress**: Went on a slight detour with a Tuts+ tutorial that I found that utilizes both the DarkSky and Google Maps APIs.  The tutorial isn't great and has some errors, but it was a good chance to troubleshoot on my own,
 
