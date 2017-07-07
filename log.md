@@ -287,3 +287,23 @@
 **Takeaways:**  I updated the button HTML by referencing button as "this", which is good because I've been wanting some practice working with objects and "this".
 
 **Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+### Day 28: July 5, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Got bogged down trying to get the user's nearest city using the Google Maps API. 
+
+**Takeaways:**  I'm going to need to spend some time learning about the Google Maps API; there are a lot of objects and methods that are native(?) to the API.
+
+**Link to work:** [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+
+### Day 27: July 4, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Went on a slight detour with a Tuts+ tutorial that I found that utilizes both the DarkSky and Google Maps APIs.  The tutorial isn't great and has some errors, but it was a good chance to troubleshoot on my own,
+
+**Takeaways:**  You can't always trust that the resource you're using will be 100% accurate; I found a typo in the newly-posted tutorial where an object was being referenced by the wrong name.  You just need to try to reason out what the code is supposed to be doing.
+
+**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG
