@@ -306,4 +306,4 @@
 
 **Takeaways:**  You can't always trust that the resource you're using will be 100% accurate; I found a typo in the newly-posted tutorial where an object was being referenced by the wrong name.  You just need to try to reason out what the code is supposed to be doing.
 
-**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG
+**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG)
