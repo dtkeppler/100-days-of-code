@@ -307,3 +307,24 @@
 **Takeaways:**  You can't always trust that the resource you're using will be 100% accurate; I found a typo in the newly-posted tutorial where an object was being referenced by the wrong name.  You just need to try to reason out what the code is supposed to be doing.
 
 **Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG)
+
+
+### Day 28: July 7, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Another semi-cheat day; I watched a FunFunFunctions tutorial on currying and did a few exercises.  As a bonus, I also got to practice filtering.
+
+**Takeaways:**  This is a tricky concept, but MPJ has some good examples.  I need to look into using Lodash, as well as Babel (so I can write with ES6).
+
+**Link to work: n/a
+
+
+### Day 29: July 8, 2017 
+#### Time: 2.5 hours
+
+**Today's Progress**: Spent 30 min doing a quick refresher on currying and filter/map.  Then I got back to my Tuts+ weather app using Google Maps API.  I had to search around for a Skycons CDN and finally found it on a Codepen app.  I started on a switch stmt to pair the DarkSky response data with the Skycon properties.
+
+**Takeaways:**  Sometimes documentation isn't very user-friendly; Skycons repo had very basic user code snippets, but no info on their CDN.
+
+**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG)
+
