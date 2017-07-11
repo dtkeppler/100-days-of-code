@@ -328,3 +328,16 @@
 
 **Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG)
 
+
+### Day 30: July 9, 2017
+#### Time: 0 hours  (*** CHEAT DAY ***)
+
+
+### Day 31: July 10, 2017 
+#### Time: 2.5 hours
+
+**Today's Progress**: Spent an hour learning the basics of Lodash and practicing some basic methods.  Then I finished my Google API weather map (from Tuts+) finishing the switch statement and accessing the location object to write the city name to the DOM.  Lastly I did some basic styling.  Then I submitted by original DarkSky app to FCC, as I'm ready to move on to the next project.
+
+**Takeaways:**  It's clear how important understanding data structures is when your app is making calls to API's.  In particular, I was able to figure out how to access the property containing the city name.  It wasn't hard, but you need to know what you're looking for.
+
+**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG), [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
