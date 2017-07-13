@@ -341,3 +341,24 @@
 **Takeaways:**  It's clear how important understanding data structures is when your app is making calls to API's (in this case, the property containing the city name.)  It wasn't hard to get, but you need to know what you're looking for.
 
 **Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG), [Weather App](https://codepen.io/dtkeppler/pen/WOXZOq)
+
+### Day 32: July 11, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Reviewed the requirements for the "Wikipedia Viewer" project.  Started getting the basic setup for the app set up on Codepen, then read the provided documentation and hint links on the Wiki API.
+
+**Takeaways:**  I'll need to do some refreshers on Ajax and working with JSON data; I understand the general concepts, but will need to review my notes and read through some additional resources.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+### Day 33: July 12, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: Played around in Codepen on an Ajax sandbox using the JSONPlaceholder API data.  I was able make a basic getJSON call and return all the key/value pairs from the first object, then print it to the DOM
+
+**Takeaways:**
+1. Don't underestimate the use of Object.keys
+2. Remember you can reference property values with the obj["key"] notation
+
+**Link to work:** [Ajax Testing](https://codepen.io/dtkeppler/pen/Ngoxwv)
