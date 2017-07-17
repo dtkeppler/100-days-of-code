@@ -377,8 +377,19 @@
 ### Day 35: July 14, 2017 
 #### Time: 1 hour
 
-**Today's Progress**: Continued
+**Today's Progress**: Spent a while focusing on the .each() method.  Got the Wikipedia app to return a random article object, but not yet sure what to do with it.  Played with the API sandbox and watched part of their tutorial video.
 
-**Takeaways:**  
+**Takeaways:**  .The .each() callback takes 2 arguments, one of which is the iterator (the array index or the object key)
 
-**Link to work:** 
+**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+### Day 36: July 16, 2017 
+#### Time: 2.5 hours
+
+**Today's Progress**: After spending a good bit of time trying to figure out the Wikimedia API, I decided to go on the FCC forum for some advice.  Once I found the basic format of the search query URL needed, I made a successful call and print the first 10 article titles to the page.
+
+**Takeaways:**  The Wikimedia API documentation is NOT very user-friendly (or at least not newbie-friendly).  Now that I know what I'm looking for, I'll try to go into the API sandbox and pay around again.
+
+**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+
