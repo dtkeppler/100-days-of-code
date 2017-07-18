@@ -387,9 +387,18 @@
 ### Day 36: July 16, 2017 
 #### Time: 2.5 hours
 
-**Today's Progress**: After spending a good bit of time trying to figure out the Wikimedia API, I decided to go on the FCC forum for some advice.  Once I found the basic format of the search query URL needed, I made a successful call and print the first 10 article titles to the page.
+**Today's Progress**: After spending a good bit of time trying to figure out the Wikimedia API, I decided to go on the FCC forum for some advice.  Once I found the basic format of the search query URL needed, I made a successful call on a hard-coded URL and printed the first 10 article titles to the page.
 
 **Takeaways:**  The Wikimedia API documentation is NOT very user-friendly (or at least not newbie-friendly).  Now that I know what I'm looking for, I'll try to go into the API sandbox and pay around again.
 
 **Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
 
+
+### Day 37: July 17, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a [good article] (http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
+
+**Takeaways:**  You can iterate over an object using a "for...in" loop.  Not related to this project, but I was reading an article an rediscovered this very important loop syntax.
+
+**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
