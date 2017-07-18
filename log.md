@@ -399,6 +399,8 @@
 
 **Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a [good article] (http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
 
-**Takeaways:**  You can iterate over an object using a "for...in" loop.  Not related to this project, but I was reading an article an rediscovered this very important loop syntax.
+**Takeaways:**  
+1. "callback=?" can be used in the URL to enable JSONP
+2. You can iterate over an object using a "for...in" loop.  (Not related to this project, but while reading an article, I rediscovered this important loop syntax.)
 
 **Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
