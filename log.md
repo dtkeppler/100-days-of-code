@@ -397,7 +397,7 @@
 ### Day 37: July 17, 2017 
 #### Time: 1.5 hours
 
-**Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a [good article] (http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
+**Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a **[good article]** (http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
 
 **Takeaways:**  
 1. "callback=?" can be used in the URL to enable JSONP
