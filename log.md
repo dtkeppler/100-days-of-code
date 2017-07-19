@@ -367,7 +367,7 @@
 ### Day 34: July 13, 2017 
 #### Time: 1 hour
 
-**Today's Progress**: Read parts 1 and 2 of [this tutorial] (https://webdesign.tutsplus.com/tutorials/an-introduction-to-ajax-for-front-end-designers--cms-25099), in order to better familiarize myself with the workings of AJAX.
+**Today's Progress**: Read parts 1 and 2 of [This article](https://webdesign.tutsplus.com/tutorials/an-introduction-to-ajax-for-front-end-designers--cms-25099), in order to better familiarize myself with the workings of AJAX.
 
 **Takeaways:**  There are a lot of different methods available for requesting data: .load, .get, .getJSON, .ajax, etc. and each has a different use.
 
