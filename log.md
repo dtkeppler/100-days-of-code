@@ -404,3 +404,15 @@
 2. You can iterate over an object using a "for...in" loop.  (Not related to this project, but while reading an article, I rediscovered this important loop syntax.)
 
 **Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+### Day 38: July 18, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I got the "random article" feature working.  I also got jQuery to get the value of the "search" field and put it in a variable which is used in the query URL.  This successfully brings up the desired search results.
+
+**Takeaways:**  Again, don't overthink it.  After trying to figure out how to generate a random article link to place into the URL as a variable, I realized I could just have the button open a new window with the "Special:Random" URL they provided.
+
+
+**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+
