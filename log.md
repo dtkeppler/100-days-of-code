@@ -381,7 +381,7 @@
 
 **Takeaways:**  .The .each() callback takes 2 arguments, one of which is the iterator (the array index or the object key)
 
-**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
 
 
 ### Day 36: July 16, 2017 
@@ -391,19 +391,19 @@
 
 **Takeaways:**  The Wikimedia API documentation is NOT very user-friendly (or at least not newbie-friendly).  Now that I know what I'm looking for, I'll try to go into the API sandbox and pay around again.
 
-**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
 
 
 ### Day 37: July 17, 2017 
 #### Time: 1.5 hours
 
-**Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a **[good article]** (http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
+**Today's Progress**: Although the AJAX call worked using .get() while CORS-enabled, I needed to change to a .ajax() call to allow for JSONP.  I was able to do so with the help of a [good article](http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/).  I also got it to print a "no entries" message when the returned array has a length of 0.
 
 **Takeaways:**  
 1. "callback=?" can be used in the URL to enable JSONP
 2. You can iterate over an object using a "for...in" loop.  (Not related to this project, but while reading an article, I rediscovered this important loop syntax.)
 
-**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
 
 
 ### Day 38: July 18, 2017 
@@ -414,5 +414,4 @@
 **Takeaways:**  Again, don't overthink it.  After trying to figure out how to generate a random article link to place into the URL as a variable, I realized I could just have the button open a new window with the "Special:Random" URL they provided.
 
 
-**Link to work:** [Wikipedia Viewer] (https://codepen.io/dtkeppler/pen/jwXVVR)
-
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
