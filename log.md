@@ -413,5 +413,15 @@
 
 **Takeaways:**  Again, don't overthink it.  After trying to figure out how to generate a random article link to place into the URL as a variable, I realized I could just have the button open a new window with the "Special:Random" URL they provided.
 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+### Day 39: July 19, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I got the article links on the search results working.  Also, I wrapped the AJAX call in an if-statement, and if nothing is entered in the search field, a message pops up.
+
+**Takeaways:**  The URL setup was again surprisingly easy.  The article title is the same in URL string, with the simple replacement of spaces with a "_".
+
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
