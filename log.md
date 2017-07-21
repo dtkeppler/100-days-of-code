@@ -436,4 +436,4 @@
 **Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
 
 
-#### Coding Challenged on hold, as I will be on vacation until 7/30 and without a laptop.  (During this time, however, I will continue to read articles and posts on coding as often as possible.)
+### Coding Challenged on hold, as I will be on vacation until 7/30 and without a laptop.  (During this time, however, I will continue to read articles and posts on coding as often as possible.)
