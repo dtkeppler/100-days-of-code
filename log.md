@@ -423,5 +423,17 @@
 
 **Takeaways:**  The URL setup was again surprisingly easy.  The article title is the same in URL string, with the simple replacement of spaces with a "_".
 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+### Day 40: July 20, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: I added an error property to the ajax call, which prints a basic message to the page. This basically concludes the programming of the app.  I also began styling the page.
+
+**Takeaways:**  You apparently can't set a background-color for the "body" element; it needs to be a div.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
+
+
+## Coding Challenged on hold, as I will be on vacation until 7/30 and without a laptop.  (During this time, however, I will continue to read articles and posts on coding as often as possible.)
