@@ -437,3 +437,14 @@
 
 
 ### Coding Challenged on hold, as I will be on vacation until 7/30 and without a laptop.  (During this time, however, I will continue to read articles and posts on coding as often as possible.)
+
+
+### Day 41: July 30, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I finished styling the app.  This included appending an outer div to house each result so a <hr> break could visually separate the results.  I then submitted the finished project
+
+**Takeaways:**  It felt good to be coding again.  I kept it simple to ease back into it after 8 days off, but it was nice to look at the work with fresh eyes.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
+
