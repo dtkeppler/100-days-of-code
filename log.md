@@ -448,3 +448,14 @@
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/dtkeppler/pen/jwXVVR)
 
+
+### Day 42: July 31, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I went back to tweak the Tuts+ weather app, so the canvas would be added dynamically and not take up space. I then started on the FCC Twitch.tv JSON API challenge, which consisted mostly of reading the requirements and the API documentation.
+
+**Takeaways:**  For the weather app, I could use .after() on the button to add the canvas, but it was hard to target for removal.  Much easier to just add/remove a div with the canvas in there.
+
+**Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG), [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
