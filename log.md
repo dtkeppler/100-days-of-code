@@ -459,3 +459,24 @@
 **Link to work:** [Tuts+ Weather App](https://codepen.io/dtkeppler/pen/JJBLaG), [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
 
+### Day 43: August 1, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I played around with the Twitch.tv API a little bit, and was able to return an object using the "https://wind-bow.gomix.me/twitch-api/channels/twitch" url provided in the project notes.
+
+**Takeaways:**  At its most basic, an AJAX call can be very simple to make.  Once you can print the data object to the console, that's a huge first step.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 44: August 2, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I felt the need for an AJAX refresher after being away for a week.  I went back to a Treehouse project app that made calls to a "company" database using .getJSON to see if rooms were available and print to a page
+
+**Takeaways:**  When creating a list with dynamically-retrieved li's, it's best to first create a bookend <ul> as a variable and add to it through .each() 
+
+**Link to work:** none (unable to access workspace if not logged in)
+
+
+
