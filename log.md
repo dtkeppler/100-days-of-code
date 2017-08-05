@@ -479,4 +479,22 @@
 **Link to work:** none (unable to access workspace if not logged in)
 
 
+### Day 45: August 3, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Perused the Twitch documentation and the FCC forum, to try to get an idea of how to get the needed data objects, and tinkered a bit with returning different objects.
+
+**Takeaways:**  This challenge is getting frustrating because there are a lot of workarounds suggested by FCC due to Twitch's policy changes.  It seems like everybody has a different way of doing it.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 46: August 4, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I think I've determined where I can get streaming data: '../streams/<username>.  After hard-coding the suggested array of frequent-streamers, I used forEach and an if-statement to print messages on if each is streaming or not.
+
+**Takeaways:**  I think that other "campers" must be flexing their coding chops, because a lot of the code snippets I eyeballed look very complex, while I feel like the app will be pretty basic at heart.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
