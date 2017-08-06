@@ -498,3 +498,24 @@
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
+
+### Day 47: August 5, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Made good progress in rendering the returned results to the page.  Created a div for each user, and printed their username and the link to their stream link.
+
+**Takeaways:**  
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 48: August 6, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: I changed from rendering their stream link to rendering their channel status. Ran into a roadblock with the divs: apparently I can't create a div for each user, then simply append elements to the div.  (Instead they are being appended after the div). After troubleshooting, I asked my first question on Stack Overflow.
+
+**Takeaways:**  It seems like this should be an easy thing to troubleshoot, but I'm stumped.  I did find some workarounds, but really want to figure this out.  Interested to see if Stack Overflow gives results.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
