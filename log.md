@@ -504,7 +504,7 @@
 
 **Today's Progress**: Made good progress in rendering the returned results to the page.  Created a div for each user, and printed their username and the link to their stream link.
 
-**Takeaways:**  
+**Takeaways:**  No major takeaways, except that it felt good to make good progress working with the returned data objects.
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
@@ -515,6 +515,26 @@
 **Today's Progress**: I changed from rendering their stream link to rendering their channel status. Ran into a roadblock with the divs: apparently I can't create a div for each user, then simply append elements to the div.  (Instead they are being appended after the div). After troubleshooting, I asked my first question on Stack Overflow.
 
 **Takeaways:**  It seems like this should be an easy thing to troubleshoot, but I'm stumped.  I did find some workarounds, but really want to figure this out.  Interested to see if Stack Overflow gives results.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 49: August 7, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Thanks to Stack Overflow, I got a resolution to my appending divs issue.  Rather than trying to append HTML to a div, I assigned the HTML to a $ variable and then appended that variable to the div.  Worked like a charm.
+
+**Takeaways:**  I learned that it is best to **always handle jQuery objects rather than HTML**
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 50: August 8, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: I added a link to the username that will direct to their channel.  I also added the user logo, but to do so, I had to make an AJAX call to the users object, rather than streams.  As a result, I had to nest calls, first calling users, then calling streams.
+
+**Takeaways:**  You're able to nest getJSON requests, although I think there must be more elegant way to do it **(look into refactoring)**
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
