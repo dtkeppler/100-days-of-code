@@ -530,11 +530,31 @@
 
 
 ### Day 50: August 8, 2017 
-#### Time: 1.5 hour
+#### Time: 1.5 hours
 
 **Today's Progress**: I added a link to the username that will direct to their channel.  I also added the user logo, but to do so, I had to make an AJAX call to the users object, rather than streams.  As a result, I had to nest calls, first calling users, then calling streams.
 
 **Takeaways:**  You're able to nest getJSON requests, although I think there must be more elegant way to do it **(look into refactoring)**
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 51: August 9, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Mostly worked on arranging and styling the divs so that the user logo sits to the left of the user name and status info.  It isn't perfect but looks pretty good.
+
+**Takeaways:**  Pay attention to which div you're working with.  I was having trouble until i realized i was targeting the user-data (inner) div instead of the user-div (outer) div.  Also, aligning vertically is tricky.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 50: August 8, 2017 
+#### Time: 1.5 hour
+
+**Today's Progress**: Working on a way to get the online users to the top of the list.  I think I'm on the right track by creating an array for the user-divs and "unshifting" the online users to the beginning of the array.  Now i just need to append each item in the array to the results div.
+
+**Takeaways:**  Always good to think before you start coding.  Luckily I did this, and thus far was able to avoid starting from scratch repeatedly as I threw out ideas.
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
