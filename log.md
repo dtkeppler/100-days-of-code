@@ -549,8 +549,8 @@
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
 
-### Day 50: August 8, 2017 
-#### Time: 1.5 hour
+### Day 52: August 10, 2017 
+#### Time: 1 hour
 
 **Today's Progress**: Working on a way to get the online users to the top of the list.  I think I'm on the right track by creating an array for the user-divs and "unshifting" the online users to the beginning of the array.  Now i just need to append each item in the array to the results div.
 
