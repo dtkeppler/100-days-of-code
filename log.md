@@ -466,7 +466,7 @@
 
 **Takeaways:**  At its most basic, an AJAX call can be very simple to make.  Once you can print the data object to the console, that's a huge first step.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 44: August 2, 2017 
@@ -486,7 +486,7 @@
 
 **Takeaways:**  This challenge is getting frustrating because there are a lot of workarounds suggested by FCC due to Twitch's policy changes.  It seems like everybody has a different way of doing it.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 46: August 4, 2017 
@@ -496,7 +496,7 @@
 
 **Takeaways:**  I think that other "campers" must be flexing their coding chops, because a lot of the code snippets I eyeballed look very complex, while I feel like the app will be pretty basic at heart.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 47: August 5, 2017 
@@ -506,7 +506,7 @@
 
 **Takeaways:**  No major takeaways, except that it felt good to make good progress working with the returned data objects.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 48: August 6, 2017 
@@ -516,7 +516,7 @@
 
 **Takeaways:**  It seems like this should be an easy thing to troubleshoot, but I'm stumped.  I did find some workarounds, but really want to figure this out.  Interested to see if Stack Overflow gives results.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 49: August 7, 2017 
@@ -526,7 +526,7 @@
 
 **Takeaways:**  I learned that it is best to **always handle jQuery objects rather than HTML**
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 50: August 8, 2017 
@@ -536,7 +536,7 @@
 
 **Takeaways:**  You're able to nest getJSON requests, although I think there must be more elegant way to do it **(look into refactoring)**
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 51: August 9, 2017 
@@ -546,7 +546,7 @@
 
 **Takeaways:**  Pay attention to which div you're working with.  I was having trouble until i realized i was targeting the user-data (inner) div instead of the user-div (outer) div.  Also, aligning vertically is tricky.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 52: August 10, 2017 
@@ -556,7 +556,7 @@
 
 **Takeaways:**  Always good to think before you start coding.  Luckily I did this, and thus far was able to avoid starting from scratch repeatedly as I threw out ideas.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 53: August 11, 2017 
@@ -566,7 +566,7 @@
 
 **Takeaways:**  Always look to see if a method will do the job, before creating another data structure to work with.
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
 ### Day 54: August 12, 2017 
@@ -576,6 +576,6 @@
 
 **Takeaways:**  ** When using .each() remember that it takes two arguments: an index and a value. ** (This tripped me up for a while)
 
-**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
