@@ -559,3 +559,23 @@
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
 
 
+### Day 53: August 11, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I resolved the issue of sorting online users to the top.  I first created an array that I was trying to push or unshift the divs into depending on status but I couldn't access anything inside the array.  Then I realized I could just prepend or append each div to results depending on status.
+
+**Takeaways:**  Always look to see if a method will do the job, before creating another data structure to work with.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
+### Day 54: August 12, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: I added buttons to show online, offline, or all users.  In this case, I did need to create an array and assign globally, then push each userDiv as they were created.  From there, I just appended the divs based on the user class of "online" or "offline".
+
+**Takeaways:**  ** When using .each() remember that it takes two arguments: an index and a value. ** (This tripped me up for a while)
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/BdKJZg)
+
+
