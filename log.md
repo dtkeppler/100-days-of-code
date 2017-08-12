@@ -574,7 +574,7 @@
 
 **Today's Progress**: I added buttons to show online, offline, or all users.  In this case, I did need to create an array and assign globally, then push each userDiv as they were created.  From there, I just appended the divs based on the user class of "online" or "offline".
 
-**Takeaways:**  ** When using .each() remember that it takes two arguments: an index and a value. ** (This tripped me up for a while)
+**Takeaways:**  **When using .each() remember that it takes two arguments: an index and a value.** (This tripped me up for a while)
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
