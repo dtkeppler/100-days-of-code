@@ -579,3 +579,22 @@
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
 
+### Day 55: August 13, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Mainly focused on CSS; got color scheme added and buttons centered and styled.
+
+**Takeaways:**  Buttons are centered by "text-align: center", NOT "margin: 0 auto" (this has tripped me up before.
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
+
+
+### Day 56: August 14, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: When shrinking the browser screen, the div positioning gets thrown off.  I tried absolute positioning for the user-data div, but that caused other issues.  I'd like to shorten text if the screen is resized; will see if jQuery has a method for that.
+
+**Takeaways:**  Positioning divs dynamically is a pain!
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
+
