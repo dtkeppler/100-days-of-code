@@ -592,7 +592,7 @@
 ### Day 56: August 14, 2017 
 #### Time: 1 hour
 
-**Today's Progress**: When shrinking the browser screen, the div positioning gets thrown off.  I tried absolute positioning for the user-data div, but that caused other issues.  I'd like to shorten text if the screen is resized; will see if jQuery has a method for that.
+**Today's Progress**: When shrinking the browser screen, the div positioning gets thrown off.  I tried absolute positioning for the user-data div, but that caused other issues.  I think I can use .width() to get the breakpoint, and at that point I can truncate the returned string.
 
 **Takeaways:**  Positioning divs dynamically is a pain!
 
