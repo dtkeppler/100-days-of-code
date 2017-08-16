@@ -598,3 +598,24 @@
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
 
+
+### Day 57: August 15, 2017 
+#### Time: 3 hours
+
+**Today's Progress**: Spent three hours trying to get the user status data to render responsively. What finally did it was using .html to assign the text to the $userDiv via a <p> tag.  what did NOT work was trying to append the $userStatus (with the same data).  Either it would not update with the resizing of the window, or it would append a new status div with each resizing of the window.
+
+**Takeaways:**  **When trying to update content dynamically, change via .html or .text; don't try to re-render the div itself**
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
+
+
+### Day 58: August 16, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Incorporated the code from my stripped-down forked testing app into my master app.
+
+**Takeaways:**  Version control it essential!
+
+**Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/dzzeqr)
+
+
