@@ -627,3 +627,24 @@
 **Takeaways:**  Glad to have this one behind me.
 
 **Link to work:** [Twitch.tv App](https://codepen.io/dtkeppler/pen/rzpXXW)
+
+
+### Day 60: August 18, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Since I finished up FCC's intermediate projects, I took some time to refresh my Github knowledge, and committed my Twitch app to a repo
+
+**Takeaways:**  While it's easy to push a project to Github, I'll need some practice on all the other features
+
+**Link to work:** n/a
+
+
+### Day 61: August 19, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Started on intermediate algorithm scripting; completed "Sum All Numbers in a Range Complete" and "Diff Two Arrays Complete"
+
+**Takeaways:**  the .sort() method will put a 10 before a 9, because the "1" in "10" comes before "9".  There's a simple callback to use: arr.sort(function(a, b) { return a - b; })
+
+**Link to work:** n/a
+
