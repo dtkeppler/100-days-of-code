@@ -666,6 +666,8 @@
 
 **Takeaways:**  Understand the data you're working with, and what you're trying to do.  I didn't have a clear idea of what exactly I was trying to change in the string.  
 
+**Link to work:** n/a
+
 
 ### Day 61: August 19, 2017 
 #### Time: 1 hour
