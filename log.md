@@ -648,3 +648,32 @@
 
 **Link to work:** n/a
 
+
+### Day 62: August 20, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Worked on algorithm scripting challenge "Roman Numeral Converter"; used a switch statement to add a numeral to a string and detract its value from the total.  
+
+**Takeaways:**  Took some time to get the switch statement working right but I think I'm on a roll.
+
+**Link to work:** n/a
+
+
+### Day 63: August 21, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Totally hit a wall... I'm having trouble figuring out how to address replacing 4+ consecutive numerals with the approporate code.  After glancing at Stack Overflow for tips, I realized I can just target substrings for 4/9/40/90/400/900, etc.
+
+**Takeaways:**  Understand the data you're working with, and what you're trying to do.  I didn't have a clear idea of what exactly I was trying to change in the string.  
+
+
+### Day 61: August 19, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: After trying to work with the results as an array, I determined it would be better to work with a string, and just use another switch statement with .replace methods to target the 4/9/40/90/400/900 numerals... probably not the most elegant, but it worked.  Glad to be done with this one!
+
+**Takeaways:**  
+1) There's usually no one "right" way to code something; don't rely completely on "helpful" hints. 
+2) Again, don't overthink it.  Is there something specific (ie. a substring) you can target?
+
+**Link to work:** n/a
