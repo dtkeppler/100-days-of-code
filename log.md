@@ -664,12 +664,12 @@
 
 **Today's Progress**: Totally hit a wall... I'm having trouble figuring out how to address replacing 4+ consecutive numerals with the approporate code.  After glancing at Stack Overflow for tips, I realized I can just target substrings for 4/9/40/90/400/900, etc.
 
-**Takeaways:**  Understand the data you're working with, and what you're trying to do.  I didn't have a clear idea of what exactly I was trying to change in the string.  
+**Takeaways:**  Understand the data you're working with, and what you're trying to do.  I didn't have a clear idea of what exactly I was trying to change in the string (ie: the 4's and 9's)
 
 **Link to work:** n/a
 
 
-### Day 61: August 19, 2017 
+### Day 64: August 22, 2017 
 #### Time: 1 hour
 
 **Today's Progress**: After trying to work with the results as an array, I determined it would be better to work with a string, and just use another switch statement with .replace methods to target the 4/9/40/90/400/900 numerals... probably not the most elegant, but it worked.  Glad to be done with this one!
@@ -679,3 +679,24 @@
 2) Again, don't overthink it.  Is there something specific (ie. a substring) you can target?
 
 **Link to work:** n/a
+
+
+### Day 64: August 23, 2017 
+#### Time: 1.5 hours
+
+**Today's Progress**: Started on FCC scripting challenge "Wherefore Art Thou", which is another tough one.  I was able to create arrays of the object keys to compare them, but then had a hard time trying to determine how to match up the values.
+
+**Takeaways:**  **When accessing an object value using a variable, you MUST use key[value]; using key.value will NOT work!** (That stumped me for a while.)
+
+**Link to work:** n/a
+
+
+### Day 65: August 24, 2017 
+#### Time: 2 hours
+
+**Today's Progress**: After hammering away for another 90 minutes at the challenge and ending up pretty much where I started, I had to throw in the towel and move on with hopes to revisit later.  I started on "Search and Replace" and am making good progress; I just need to address letter capitalization.
+
+**Takeaways:**  I really need to review JS objects and object oriented programming.
+
+**Link to work:** n/a
+
