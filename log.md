@@ -700,3 +700,23 @@
 
 **Link to work:** n/a
 
+
+### Day 66: August 25, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed "Search and Replace". Then started on FCC scripting challenge Pig Latin"; made good progress, but need to figure out how to move ALL consonants befor the first vowel to the end.   
+
+**Takeaways:**  **Can test for capitalization with: item === item.toUpperCase()**
+
+**Link to work:** n/a
+
+
+### Day 67: August 26, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed "Pig Latin"; addressed moving all starting consonants by getting index of the first vowel, and removing (with .shift) the number of letters equal to the vowel's index, then tacking those letters to the end.
+
+**Takeaways:**  Always handy to know if there's an array method for whata you need.
+
+**Link to work:** n/a
+
