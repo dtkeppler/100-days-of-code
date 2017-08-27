@@ -720,3 +720,12 @@
 
 **Link to work:** n/a
 
+
+### Day 68: August 27, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed FCC challenges "DNA Pairing" and "Missing Letters"; breezed through them and am feeling good about my coding skills again, after the "Wherefore Art Thou" and "Roman Numeral" challenges.
+
+**Takeaways:**  Converting letters to their unicode numbers is very useful for looking for patterns in letters.
+
+**Link to work:** n/a
