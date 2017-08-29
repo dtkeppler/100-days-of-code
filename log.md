@@ -729,3 +729,18 @@
 **Takeaways:**  Converting letters to their unicode numbers is very useful for looking for patterns in letters.
 
 **Link to work:** n/a
+
+
+### Day 69: August 28, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed FCC challenges "Boo Who" (in record time) and "Sorted Union".  
+
+**Takeaways:**  
+1) You can use "arguments" as an object when you want to iterate over a variable number of arguments
+2) You can remove duplicate values in an arraay with the following:
+**arr = arr.filter (function (value, index, array) { 
+    return array.indexOf (value) == index;
+});**
+
+**Link to work:** n/a
