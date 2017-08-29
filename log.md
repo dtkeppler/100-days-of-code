@@ -739,6 +739,7 @@
 **Takeaways:**  
 1) You can use "arguments" as an object when you want to iterate over a variable number of arguments
 2) You can remove duplicate values in an arraay with the following:
+
 **arr = arr.filter (function (value, index, array) { 
     return array.indexOf (value) == index;
 });**
