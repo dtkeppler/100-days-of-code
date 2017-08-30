@@ -738,10 +738,30 @@
 
 **Takeaways:**  
 1) You can use "arguments" as an object when you want to iterate over a variable number of arguments
-2) You can remove duplicate values in an arraay with the following:
+2) **You can remove duplicate values in an arraay with the following:
 
 **arr = arr.filter (function (value, index, array) { 
     return array.indexOf (value) == index;
-});**
+});
+
+**Link to work:** n/a
+
+
+### Day 70: August 29, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Started on FCC challenge "Convert HTML Entities" which is surprisingly tricky.  I tried several ways to find and replace data, including looping over an array of the text and using an if/else with .replace().  The if/else almost worked, but not quite (and it was inelegant)
+
+**Takeaways:**  **I'm in the habit of looping over arrays, but need to keep in mind that sometimes there are methods for what I'm needing.
+
+**Link to work:** n/a
+
+
+### Day 71: August 30, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Finally completed the "Convert HTML Entities" challenge.  I tried to create a switch statement, but to no avail.  Finally I solved it using chained .replace() methods for each character.
+
+**Takeaways:**  Again, don't overthink it! The solution was simply a chained .replace() method.
 
 **Link to work:** n/a
