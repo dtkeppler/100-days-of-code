@@ -772,7 +772,7 @@
 
 **Today's Progress**: Completed FCC challenge "Spinal Tap Case" (with some help).  I was able to use .replace for most changes, but hit a wall with the camel case text.  I could almost get it to work with the "$" expression, but not quite.  The solution, once I saw and understood it, was a new but simple concept.
 
-**Takeaways:**  You can use () and $ in a Regex much like variables; the () captures substring to find, and then refer to them with $.
+**Takeaways:**  **You can use () and $ in a Regex much like variables; the () captures substring to find, and then refer to them with $.**
 Ex: replace(/([a-z])([A-Z])/g, '$1-$2') will put a hyphen between a lower-case and an upper-case letter.
 
 **Link to work:** n/a
