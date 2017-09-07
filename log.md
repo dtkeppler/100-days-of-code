@@ -781,7 +781,7 @@ Ex: replace(/([a-z])([A-Z])/g, '$1-$2') will put a hyphen between a lower-case a
 ### Coding Challenged on hold, as I will be on vacation until 9/5 and without a laptop.
 
 
-### Day 72: August 31, 2017 
+### Day 73, September 6, 2017 
 #### Time: 1 hour
 
 **Today's Progress**: I've put my FCC course on hold, and started the Codecademy Pro Intensive course: "Building Websites from Scratch". I did this to get more comfortable with the website building process; I'm very familiar with the basics of HTML/CSS but don't know best practices of how to tie them together so that I can begin freelance work.
