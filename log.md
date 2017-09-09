@@ -791,3 +791,32 @@ Ex: replace(/([a-z])([A-Z])/g, '$1-$2') will put a hyphen between a lower-case a
 **Link to work:** n/a
 
 
+### Day 73, September 7, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Continued the first course on HTML; reviewed elements and tags.
+
+**Takeaways:**  Reminder that you can link to different div sections on a webpage using ID's
+
+**Link to work:** n/a
+
+
+### Day 73, September 8, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed a basic blog page with guidance from the course material.
+
+**Takeaways:**  Continued to reinforce basics of page layout and linking.
+
+**Link to work:** n/a
+
+
+### Day 73, September 9, 2017 
+#### Time: 1 hour
+
+**Today's Progress**: Completed "Two Sandals" project, utilizing the week's lessons. 
+
+**Takeaways:**  Even though this was quite easy for me, it made you start from scratch.  I'm thinking this course may be challenging after all.
+
+**Link to work:** [Codecademy: Two Sandals](https://codepen.io/dtkeppler/pen/dzxZbv)
+
